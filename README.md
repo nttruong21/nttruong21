@@ -3,6 +3,11 @@
 <a href="https://github.com/nttruong21"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nttruong21&langs_count=6&border_radius=15&theme=synthwave"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nttruong21&theme=synthwave&show_icons=true)
+<div>
+  <a href="https://github.com/nttruong21"><img src="https://github-readme-stats.vercel.app/api/top-langs/ username=nttruong21&langs_count=6&border_radius=15&theme=synthwave"/></a>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nttruong21&theme=synthwave&show_icons=true)
+<div>
+</div>
 
 Front end
 ---------------------------------------------------------------------------
